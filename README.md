@@ -17,9 +17,3 @@ Hi there👋 I'm  Noumi and I'm currently an Informatics undergraduate at Bandun
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-##Skill Tree
-<img 
-src="https://github-skill-tree.vercel.app/api/skilltree?username=numshv"
-alt="My GitHub Skill Tree Visualization" 
-width="800"
-/>
